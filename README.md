@@ -1,4 +1,4 @@
-# Bootstrap Responsive Webpage
+# Bootstrap Responsive WebPage
 ## This repository is about Bootstrap 5 Responsive webpage.
 
 #### Screenshot:
