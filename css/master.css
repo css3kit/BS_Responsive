@@ -146,6 +146,16 @@ hr.light {
   margin-bottom: 1rem;
 }
 
+
+h5 a {
+  color: #D5D5D5;
+  text-decoration: none;
+}
+
+h5 a:hover {
+  color: #D5D5D5;
+}
+
 footer a {
   color: #D5D5D5;
 }
@@ -196,15 +206,6 @@ hr.light-100 {
     font-size: 2.5em;
     padding: 1.2rem;
   }
-}
-
-h5 a {
-  color: #D5D5D5;
-  text-decoration: none;
-}
-
-h5 a:hover {
-  color: #D5D5D5;
 }
 
 @media (max-width: 576px) {
